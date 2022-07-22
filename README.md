@@ -12,6 +12,6 @@ Nazim Cp
 * `python setup.py`
 
 #### Contact Us
-
+You Can Contact Me Through [Telegram](https://t.me/NazimCp)
 
 Pls Give A Star
