@@ -1,8 +1,8 @@
 # Meta-Console
 Best Termux Hacking Console For Bignners
 
-#### Author
-Nazim Cp
+### Author
+[Nazim Cp](https://nazimcp.ml)
 
 ### Usage
 
