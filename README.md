@@ -1,5 +1,5 @@
 # Meta-Console
-Best Termux Hacking Console For Bignners
+Best Termux Hacking Console For Beginners
 
 ### Author
 [Nazim Cp](https://nazimcp.ml)
