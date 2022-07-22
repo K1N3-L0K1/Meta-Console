@@ -68,7 +68,7 @@ def main():
 	clear()
 	bann()
 	print("")
-	main=str(input("Enter Your Command Here: "))
+	main=str(input("kali@metaconsole--⪼ "))
 	if main=="ipaddr":
 		ip()
 	if main=="exit":
