@@ -4,7 +4,7 @@ Best Termux Hacking Console For Bignners
 #### Author
 Nazim Cp
 
-#### Usage
+### Usage
 
 * `pkg install git`
 * `git clone https://https://github.com/K1N3-L0K1/Meta-Console`
