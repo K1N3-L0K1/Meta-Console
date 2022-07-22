@@ -39,6 +39,20 @@ def brute():
 	os.system("python core/brute/main.py")
 	main()
 
+def help2():
+	print("Meta-Console Commands:")
+	print("")
+	print("ipaddr : To See The Ip Address")
+	print("phish : To Make Phishing Pages")
+	print("brute : To Do Brute Force Attack")
+	print("spam : To Send Unlimted SmS")
+	print("msfconsole : To Open Metasploit")
+	print("msfinstall : To Install Metasploit")
+	print("namp : To Use Nmap")
+	print("iptrack : To Track Ip")
+	print("ddos : To Do Ddos Attack")
+	print("exit : To Exit From The Console")
+
 def spam():
 	os.system("python core/bomb/start.py")
 	main()
@@ -68,7 +82,7 @@ def main():
 	clear()
 	bann()
 	print("")
-	main=str(input("kali@metaconsole--⪼ "))
+	main=str(input("Enter Your Command Here: "))
 	if main=="ipaddr":
 		ip()
 	if main=="exit":
@@ -89,6 +103,8 @@ def main():
 		ddos()
 	if main=="phish":
 		phish()    
+	if main=="help":
+		help2()
 
 
 
