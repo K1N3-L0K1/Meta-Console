@@ -10,6 +10,7 @@ Best Termux Hacking Console For Bignners
 * `git clone https://https://github.com/K1N3-L0K1/Meta-Console`
 * `cd Meta-Console`
 * `python setup.py`
+* `python main.py`
 
 ## Contact Us
 You Can Contact Me Through [Telegram](https://t.me/NazimCp)
