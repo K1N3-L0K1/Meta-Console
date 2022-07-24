@@ -3,8 +3,7 @@ import time
 
 code = ''''''
 import pyfiglet as pyg  
-res= pyg.figlet_format("Welcome to Meta-Console!")     
-print(res) 
+print(pyg.figlet_format("Welcome to Meta-Console!"))
 print("Installing Pkgs")
 time.sleep(5)
 os.system("bash core/setup.sh && cd..")
