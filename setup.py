@@ -1,5 +1,6 @@
 import os
 import time
+import pyfiglet as pyg
 
 code = ''''''
 import pyfiglet as pyg  
@@ -20,8 +21,7 @@ def clear():
 	os.system("clear")
 
 def bann():
-	res= pyg.figlet_format("Meta-Console")     
-print(res)  
+	print(pyg.figlet_format("Meta-Console")) 
 
 def ip():
 	clear()
